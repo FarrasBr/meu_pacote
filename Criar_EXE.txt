@@ -1,0 +1,13 @@
+
+criar abiente: python -m venv ambiente_v 
+abrir ambiente: .\ambiente_v\Scripts\activate
+
+{Instalar as extensões}
+
+Instalar o pyinstaller: pip install pyinstaller
+
+criar executavel: pyinstaller --onefile Main.py 
+
+Caso seja necessario abri alguma janela, coloque -w antes do nome: pyinstaller --onefile -w ARQUIVO_QUALQUER.py 
+
+***FECHAR***: deactivate
