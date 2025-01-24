@@ -3,9 +3,9 @@
 1. Importe os arquivos de "meu_pacote":
     from meu_pacote
 2. Importe as funções
-    import texto_terminal, ...
+    import texto_terminal, etc ...
 3. Final:
-    from meu_pacote import texto_terminal
+    from meu_pacote import texto_terminal (EXEMPLO)
 
 
 # Funções em cada arquivo:
