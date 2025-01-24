@@ -8,7 +8,7 @@ setup(
     name="meu_pacote",
     version="1.0.0",
     author="Bruno Alves Farrás",
-    description="Pacote de interações com o usuário",
+    description="Pacote de comandos personalizaveis",
     packages=find_packages(),
     install_requires=requirements
 )
